@@ -1,4 +1,4 @@
-/data/
-/torch/
-/.idea/
-/.ipynb_checkpoints/
+data/
+torch/
+.idea/
+logs/
